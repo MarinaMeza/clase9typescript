@@ -1,4 +1,4 @@
-type auto{
+type auto={
   carroceria:string,
   modelo:string,
   antibalas:boolean,
